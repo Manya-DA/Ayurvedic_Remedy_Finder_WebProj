@@ -44,11 +44,11 @@ Hugging Face Inference API (RoBERTa-based QA model)
 📁 Project Structure
 Ayurvedic-Remedy-Finder/
 │
-├── index.html          # Main user interface
-├── script.js           # Frontend logic & API calls
-├── search_remedy.php   # Backend remedy search logic
-├── db.php              # Database connection file
-└── README.md           # Project documentation
+├── index.html          
+├── script.js           
+├── search_remedy.php   
+├── db.php              
+└── README.md          
 
 ⚙️ How It Works
 
