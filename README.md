@@ -43,7 +43,7 @@ Hugging Face Inference API (RoBERTa-based QA model)
 
 📁 Project Structure
 Ayurvedic-Remedy-Finder/
-│
+
 ├── index.html          
 ├── script.js           
 ├── search_remedy.php   
